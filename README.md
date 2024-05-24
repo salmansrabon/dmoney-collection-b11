@@ -11,7 +11,8 @@
 - ``` git clone <repo_url> ```
 -  ``` npm i ```
 -   add the .env file (on request)
--    ``` node report.js ```
+-    ``` node report.js ``` or
+-    ``` npm test ```
   
 ## Documentation
 https://documenter.getpostman.com/view/1844288/2sA3QqfYC9
